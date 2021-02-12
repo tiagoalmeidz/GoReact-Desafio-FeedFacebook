@@ -1,1 +1,1 @@
-# GoReact-Desafio-FeedFacebook
+Desafio-FeedFacebook
